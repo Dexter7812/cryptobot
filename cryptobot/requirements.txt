@@ -1,0 +1,20 @@
+
+---
+
+### Soubor: requirements.txt
+
+```txt
+pyyaml
+onnxruntime
+numpy
+pandas
+python-dotenv
+streamlit
+python-binance
+cryptography
+pydantic
+scikit-learn
+psutil
+tensorflow
+keras
+tf2onnx
